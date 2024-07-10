@@ -1,7 +1,7 @@
 # News-Research-Tool
 a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-Features
+<h3>Features</h3>
 <br>
 Load URLs or upload text files containing URLs to fetch article content.
 Process article content through LangChain's UnstructuredURL Loader
